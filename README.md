@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="../Pioneros2/assets/Pioneros2.png" style="width: 200px">
+  <img src="/assets/Pioneros2.png" style="width: 200px">
   <h1 style="font-size: larger;">
-    <img src="../Pioneros2/assets/StarknetEs2.png" width="15">
+    <img src="/assets/StarknetEs2.png" width="15">
     <strong>StarknetEs Pioneros 2 - Basecamp en Español</strong> 
-    <img src="../Pioneros2/assets/StarknetEs2.png" width="15">
+    <img src="/assets/StarknetEs2.png" width="15">
   </h1>
 </div>
 
@@ -68,7 +68,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
     <p>En esta primera clase impartida por Nadai, se ha profundizado en los aspectos más importantes de Starknet como gran solución de escalabilidad de capa 2 conocido como Validity Rollup. Tendremos una mejor compresión de sus componentes más importantes como Starks, Cairo y Cairo VM, que forman un conjunto integro y transparente dentro de la soluciones de capa 2 de Ethereum, tenderemos una comprensión más profunda de su ecosistema y el funcionamiento de Starknet, la arquitectura y descripición de sus componentes importantes para su perfecto funcionamiento.</p>
     </div>
     <div align="center">
-    <img src="../Pioneros2/assets/Pioneros2_Clase1.png"  width="600">
+    <img src="/assets/Pioneros2_Clase1.png"  width="600">
 
 </div>
 ---
