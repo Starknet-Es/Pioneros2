@@ -72,7 +72,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
   - [Cuentas Malas](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=bad-accounts)
   
 
-> Deberas Registrar los avances de sus tareas en este [FORM](https://docs.google.com/forms/d/e/1FAIpQLScsvzCigKiiwcEJ-HU8s7Rr83NlmFmvrpmbG1jSCGDQmukhLg/viewform) para poder ser evaluado.
+> Deberas Registrar los avances de sus tareas en este [FORM](https://docs.google.com/forms/d/1dCDPxsvDZ62Ov-H5bsZbHvK4eGhdafapOgeDertyI10/edit) para poder ser evaluado.
 >
 
 <div align="center">
