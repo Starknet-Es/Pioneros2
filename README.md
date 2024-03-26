@@ -1,9 +1,9 @@
 <div align="center">
   <img src="/assets/Pioneros2.png" style="width: 200px">
   <h1 style="font-size: larger;">
-    <img src="/assets/StarknetEs2.png" width="15">
+    <img src="/assets/StarknetEs2.png" width="25">
     <strong>StarknetEs Pioneros 2 - Basecamp en Español</strong> 
-    <img src="/assets/StarknetEs2.png" width="15">
+    <img src="/assets/StarknetEs2.png" width="25">
   </h1>
 </div>
 
