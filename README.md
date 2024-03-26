@@ -15,7 +15,7 @@
 [Clase 2](https://docs.google.com/presentation/d/1eLnU-6kbbUGdIbZ5oFZ9wMqYYFs_ioMYkm74hfxO9_4/edit?usp=sharing) | [Desarrollando con Cairo]()
 [Clase 3](https://docs.google.com/presentation/d/1tBhA4hHw-5vZ9B6LtqWCm7hI8HRX8E8wxlm0-XZH5iU/edit?usp=sharing) | [Starknet.js]()
 [Clase 4](https://docs.google.com/presentation/d/19VohvgxOTL2VNBdxU8DDRtjtJFRyPjCflD2e0-XykNE/edit?usp=sharing) | [Account Abstraction]()
-[Clase 5](https://docs.google.com/presentation/d/1jQhKN4BHEblx5BNj3q4SXGxhFXHdcRezDBGzotJSypA/edit?usp=sharing) | [Juegos On-Chain en Straknet]()
+[Clase 5](https://docs.google.com/presentation/d/1jQhKN4BHEblx5BNj3q4SXGxhFXHdcRezDBGzotJSypA/edit?usp=sharing) | [Juegos On-Chain en Starknet]()
 [Clase 6](https://docs.google.com/presentation/d/16bQliB_QmyhkMo4FnMbVBYw-d3gMeyFqXovbqhEfkSg/edit?usp=sharing)| [Indexer en Cairo]()
 
 
@@ -39,13 +39,13 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 <ol>
     <li>Clase 1 - <a href="#Profundizando en Starknet">Profundizando en Starknet</a>
     </li>
-    <li>Clase 2 -<a href="#Desarrollando con Cairo">Desarrollando con Cairo</a>
+    <li>Clase 2 - <a href="#Desarrollando con Cairo">Desarrollando con Cairo</a>
     </li>
-    <li>Clase 3 -<a href="#Starknet.js">Starknet.js</a>
+    <li>Clase 3 - <a href="#Starknet.js">Starknet.js</a>
     </li>
-    <li>Clase 4- <a href="#Account Abstraction">Account Abstraction</a>
+    <li>Clase 4 - <a href="#Account Abstraction">Account Abstraction</a>
     </li>
-    <li>Clase 5 -<a href="#Juegos On-Chain en Straknet">Juegos On-Chain en Straknet</a>
+    <li>Clase 5 - <a href="#Juegos On-Chain en Starknet">Juegos On-Chain en Starknet</a>
     </li>
     <li>Clase 6 - <a href="#Indexer en Cairo">Indexer en Cairo</a>
     </li>
