@@ -60,7 +60,20 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 - [Documentos Starknet](https://docs.starknet.io/documentation/)
 - [Dojo Book](https://book.dojoengine.org/)
 
+## LINK de Tareas
 
+- [Starklings](https://starklings.app/) - Completar los ejercios completos de Starklings desde el [repo oficial](https://github.com/shramee/starklings-cairo1) de Shramee o usar la [dapp adaptada](https://starklings.app/) para ello.
+- [Counter-Workshop](https://github.com/Nadai2010/counter-workshop) - Resolver el Repo con los ejercicios oficiales del Basecamp, ya preparados en Sepolia con guía de paso a paso en los branchs.
+- [Ownable-Workshop](https://github.com/Nadai2010/ownable-workshop) - Resolver el Repo con los ejercicios oficiales del Basecamp, ya preparados en Sepolia con guía de paso a paso en los branchs.
+- [Starknet.js]() - Resolver el repo como tarea Extra sobre interactuar con los SC de Starlnet desde tu UI e integración en tu Front end.
+- [Node Guardians]() - Resolver como Bonus Extras los ejercios de Node Guardias.
+  - [Configuración de Cairo](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=starting-cairo)
+  - [Pensando en Cairo](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=cairo-thinking)
+  - [Cuentas Malas](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=bad-accounts)
+  
+
+> Deberas Registrar los avances de sus tareas en este [FORM](https://docs.google.com/forms/d/e/1FAIpQLScsvzCigKiiwcEJ-HU8s7Rr83NlmFmvrpmbG1jSCGDQmukhLg/viewform) para poder ser evaluado.
+> 
 ---
 
 <div align="justify">
