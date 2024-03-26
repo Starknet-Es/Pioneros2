@@ -73,7 +73,16 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
   
 
 > Deberas Registrar los avances de sus tareas en este [FORM](https://docs.google.com/forms/d/e/1FAIpQLScsvzCigKiiwcEJ-HU8s7Rr83NlmFmvrpmbG1jSCGDQmukhLg/viewform) para poder ser evaluado.
-> 
+>
+
+<div align="center">
+<img src="/assets/Pioneros-1.png" width="200">
+<img src="/assets/Pioneros-2.png" width="200">
+<img src="/assets/Pioneros-3.png" width="200">
+<img src="/assets/Pioneros-4.png" width="200">
+</div>
+
+
 ---
 
 <div align="justify">
