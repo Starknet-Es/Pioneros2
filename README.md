@@ -94,3 +94,8 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 
 </div>
 ---
+<div align="justify">
+    <h2 id="Desarrollando con Cairo">Desarrollando con Cairo</h2>
+    <p> En esta segunda clase impartida por Carlos, daremos los primeros pasos desarrollando en Cairo utilizando la aplicación de Staklings para familiarizarnos con la sintáxis básica y desplegaremos nuestro primer contrato en Starknet siguiendo la guía práctica de [Counter-Workshop](https://github.com/Nadai2010/counter-workshop).</p>
+    </div>
+    <div align="center">
