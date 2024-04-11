@@ -119,7 +119,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
     <h2 id="Abstracción de Cuentas">Abstracción de Cuentas</h2>
     </div>
     <div align="center">
-    <img src="/assets/Pioneros2_Clase4.png"  width="600">
+    <img src="/assets/Pioneros2_ Clase4.png"  width="600">
       
 </div>
     ---
