@@ -13,7 +13,7 @@
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------: 
 | [Clase 1](https://docs.google.com/presentation/d/140NaJyo6hkb1qqLM3Rne2OTT7O3IxMpR5If2tpXQQKI/edit?usp=sharing) | [Profundizando en Starknet](https://www.youtube.com/live/ytEXjaLs_1c?si=H-HFkJRJItJnoDnc) |
 [Clase 2](https://docs.google.com/presentation/d/1eLnU-6kbbUGdIbZ5oFZ9wMqYYFs_ioMYkm74hfxO9_4/edit?usp=sharing) | [Desarrollando con Cairo](https://www.youtube.com/live/FTp5sTVALQo?si=TyGjHrXG8HcWroBj)
-[Clase 3]([https://docs.google.com/presentation/d/1tBhA4hHw-5vZ9B6LtqWCm7hI8HRX8E8wxlm0-XZH5iU/edit?usp=sharing](https://docs.google.com/presentation/d/1BjnCrGNDs4S3ojaKljuRtEtvbB5UzuVpJDJuTQFXq5U/edit?usp=sharing )) | [Starknet.js]()
+[Clase 3](https://docs.google.com/presentation/d/1tBhA4hHw-5vZ9B6LtqWCm7hI8HRX8E8wxlm0-XZH5iU/edit?usp=sharing)| [Starknet.js]()
 [Clase 4](https://docs.google.com/presentation/d/19VohvgxOTL2VNBdxU8DDRtjtJFRyPjCflD2e0-XykNE/edit?usp=sharing) | [Account Abstraction]()
 [Clase 5](https://docs.google.com/presentation/d/1jQhKN4BHEblx5BNj3q4SXGxhFXHdcRezDBGzotJSypA/edit?usp=sharing) | [Juegos On-Chain en Starknet]()
 [Clase 6](https://docs.google.com/presentation/d/16bQliB_QmyhkMo4FnMbVBYw-d3gMeyFqXovbqhEfkSg/edit?usp=sharing)| [Indexer en Cairo]()
