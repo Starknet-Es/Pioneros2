@@ -117,12 +117,12 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 
 <div align="justify">
     <h2 id="Abstracción de Cuentas">Abstracción de Cuentas</h2>
-    <p>En esta cuarta clase impartida por Carlos, estudiamos sobre los fundamentos de AA, su desarrollo práctico, casos de uso y ejemplos. Además, vimos como parte práctica los ejercicios de [AA Workshop](https://github.com/starknet-edu/aa-workshop)
-    </p> 
-    </div>
-    <div align="center">
+    <p>En esta cuarta clase impartida por Carlos, estudiamos sobre los fundamentos de AA, su desarrollo práctico, casos de uso y ejemplos. Además, vimos como parte práctica los ejercicios de <a href="https://github.com/starknet-edu/aa-workshop">AA Workshop</a>.</p> 
+</div>
+<div align="center">
     <img src="/assets/Pioneros2_ Clase4.png"  width="600">
-      
+</div>
+
 </div>
     ---
 <div align="justify">
