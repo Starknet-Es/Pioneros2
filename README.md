@@ -66,7 +66,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 - [Counter-Workshop](https://github.com/Nadai2010/counter-workshop) - Resolver el Repo con los ejercicios oficiales del Basecamp, ya preparados en Sepolia con guía de paso a paso en los branchs.
 - [Ownable-Workshop](https://github.com/Nadai2010/ownable-workshop) - Resolver el Repo con los ejercicios oficiales del Basecamp, ya preparados en Sepolia con guía de paso a paso en los branchs.
 - [Starknet.js](https://github.com/Starknet-Es/starknetJS-clase) - Resolver el repo como tarea Extra sobre interactuar con los SC de Starlnet desde tu UI e integración en tu Front end. Aprende a crear tu ERC20 token, leer su balance, hacer un transfer y por último, aprende a integrar multicall en SN usando (Approve, transfer & mint NFT) **ALL ONE-CLICK** 
-- [Node Guardians]() - Resolver como Bonus Extras los ejercios de Node Guardias.
+- [Node Guardians](https://nodeguardians.io/campaigns) - Resolver como Bonus Extras los ejercios de Node Guardias.
   - [Configuración de Cairo](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=starting-cairo)
   - [Pensando en Cairo](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=cairo-thinking)
   - [Cuentas Malas](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=bad-accounts)
