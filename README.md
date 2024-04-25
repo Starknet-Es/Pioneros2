@@ -13,8 +13,8 @@
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------: 
 | [Clase 1](https://docs.google.com/presentation/d/140NaJyo6hkb1qqLM3Rne2OTT7O3IxMpR5If2tpXQQKI/edit?usp=sharing) | [Profundizando en Starknet](https://www.youtube.com/live/ytEXjaLs_1c?si=H-HFkJRJItJnoDnc) |
 [Clase 2](https://docs.google.com/presentation/d/1eLnU-6kbbUGdIbZ5oFZ9wMqYYFs_ioMYkm74hfxO9_4/edit?usp=sharing) | [Desarrollando con Cairo](https://www.youtube.com/live/FTp5sTVALQo?si=TyGjHrXG8HcWroBj)
-[Clase 3](https://docs.google.com/presentation/d/1BjnCrGNDs4S3ojaKljuRtEtvbB5UzuVpJDJuTQFXq5U/edit?usp=sharing )| [Starknet.js]()
-[Clase 4](https://docs.google.com/presentation/d/19VohvgxOTL2VNBdxU8DDRtjtJFRyPjCflD2e0-XykNE/edit?usp=sharing) | [Account Abstraction]()
+[Clase 3](https://docs.google.com/presentation/d/1BjnCrGNDs4S3ojaKljuRtEtvbB5UzuVpJDJuTQFXq5U/edit?usp=sharing )| [Starknet.js](https://youtube.com/live/btIEtVX1KoE?feature=share)
+[Clase 4](https://docs.google.com/presentation/d/19VohvgxOTL2VNBdxU8DDRtjtJFRyPjCflD2e0-XykNE/edit?usp=sharing) | [Account Abstraction](https://youtube.com/live/tJdJqn1sTEk?feature=share)
 [Clase 5](https://docs.google.com/presentation/d/1jQhKN4BHEblx5BNj3q4SXGxhFXHdcRezDBGzotJSypA/edit?usp=sharing) | [Juegos On-Chain en Starknet]()
 [Clase 6](https://docs.google.com/presentation/d/16bQliB_QmyhkMo4FnMbVBYw-d3gMeyFqXovbqhEfkSg/edit?usp=sharing)| [Indexer en Cairo]()
 
@@ -68,8 +68,8 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 - [Starknet.js](https://github.com/Starknet-Es/starknetJS-clase) - Resolver el repo como tarea Extra sobre interactuar con los SC de Starlnet desde tu UI e integración en tu Front end. Aprende a crear tu ERC20 token, leer su balance, hacer un transfer y por último, aprende a integrar multicall en SN usando (Approve, transfer & mint NFT) **ALL ONE-CLICK** 
 - [Node Guardians](https://nodeguardians.io/campaigns) - Resolver como Bonus Extras los ejercios de Node Guardias.
   - [Configuración de Cairo](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=starting-cairo)
-  - [Pensando en Cairo](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=cairo-thinking)
-  - [Cuentas Malas](https://nodeguardians.io/dev-hub?s=devhub-campaigns&sc=bad-accounts)
+  - [Pensando en Cairo](https://nodeguardians.io/campaigns/cairo-thinking?s=devhub-campaigns&sc=cairo-thinking)
+  - [Cuentas Malas](https://nodeguardians.io/campaigns/cairo-thinking?s=devhub-campaigns&sc=cairo-thinking)
   
 
 > Deberas Registrar los avances de sus tareas en este [FORM](https://forms.gle/hoUvxRj2zdhoCtDV9) para poder ser evaluado.
@@ -97,7 +97,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 
 <div align="justify">
     <h2 id="Desarrollando con Cairo">Desarrollando con Cairo</h2>
-    <p>En esta segunda clase impartida por Carlos, daremos los primeros pasos desarrollando en Cairo utilizando la aplicación de Staklings para familiarizarnos con la sintáxis básica y desplegaremos nuestro primer contrato en Cairo siguiendo la guía práctica de Counter-Workshop.</p> 
+    <p>En esta segunda clase impartida por Carlos, damos nuestros primeros pasos desarrollando en Cairo utilizando la aplicación de Staklings para familiarizarnos con la sintáxis básica y desplegamos nuestro primer contrato en Cairo siguiendo la guía práctica de Counter-Workshop.</p> 
     </div>
     <div align="center">
     <img src="/assets/Pioneros2_Clase2.png"  width="600">
@@ -117,6 +117,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 
 <div align="justify">
     <h2 id="Abstracción de Cuentas">Abstracción de Cuentas</h2>
+    <p>En esta cuarta clase impartida por Carlos, estudiamos sobre los fundamentos de AA, su desarrollo práctico, casos de uso y ejemplos. Además, vimos como parte práctica los ejercicios de [aa-workshop](https://github.com/starknet-edu/aa-workshop)</p> 
     </div>
     <div align="center">
     <img src="/assets/Pioneros2_ Clase4.png"  width="600">
