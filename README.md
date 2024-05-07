@@ -15,8 +15,8 @@
 [Clase 2](https://docs.google.com/presentation/d/1eLnU-6kbbUGdIbZ5oFZ9wMqYYFs_ioMYkm74hfxO9_4/edit?usp=sharing) | [Desarrollando con Cairo](https://www.youtube.com/live/FTp5sTVALQo?si=TyGjHrXG8HcWroBj)
 [Clase 3](https://docs.google.com/presentation/d/1BjnCrGNDs4S3ojaKljuRtEtvbB5UzuVpJDJuTQFXq5U/edit?usp=sharing )| [Starknet.js](https://youtube.com/live/btIEtVX1KoE?feature=share)
 [Clase 4](https://docs.google.com/presentation/d/19VohvgxOTL2VNBdxU8DDRtjtJFRyPjCflD2e0-XykNE/edit?usp=sharing) | [Account Abstraction](https://youtube.com/live/tJdJqn1sTEk?feature=share)
-[Clase 5](https://docs.google.com/presentation/d/1jQhKN4BHEblx5BNj3q4SXGxhFXHdcRezDBGzotJSypA/edit?usp=sharing) | [Juegos On-Chain en Starknet]()
-[Clase 6](https://docs.google.com/presentation/d/16bQliB_QmyhkMo4FnMbVBYw-d3gMeyFqXovbqhEfkSg/edit?usp=sharing)| [Indexer en Cairo]()
+[Clase 5](https://docs.google.com/presentation/d/1jQhKN4BHEblx5BNj3q4SXGxhFXHdcRezDBGzotJSypA/edit?usp=sharing) | [Juegos On-Chain en Starknet](https://www.youtube.com/live/CZ4qSavGnXs?si=0LOpWOnGQwm1QcUj)
+[Clase 6](https://docs.google.com/presentation/d/16bQliB_QmyhkMo4FnMbVBYw-d3gMeyFqXovbqhEfkSg/edit?usp=sharing)| [Indexer en Cairo](https://www.youtube.com/live/lHW5g8ZiULI?si=kwKRTkQF4YVSYetg)
 
 
 Puede encontrar mucho material organizado en la [web de StarknetEs](https://starknet-es.vercel.app/)
@@ -107,7 +107,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
       
 <div align="justify">
     <h2 id="Starknet JS">Starknet JS</h2>
-     <p>Para esta tercera clase impartida por Artur, exploraremos el universo de posibilidades que nos brinda la librería Starknet JS. Crearemos un frontend con Starknet React y usaremos los hooks para interactuar con los smart contracts</p> 
+     <p>Para esta tercera clase impartida por Artur, exploramos el universo de posibilidades que nos brinda la librería Starknet JS. Creamos un frontend con Starknet React y usamos los hooks para interactuar con los smart contracts</p> 
     </div>
     <div align="center">
     <img src="/assets/Pioneros2_Clase3.png"  width="600">
@@ -117,7 +117,7 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
 
 <div align="justify">
     <h2 id="Abstracción de Cuentas">Abstracción de Cuentas</h2>
-    <p>En esta cuarta clase impartida por Carlos, estudiamos sobre los fundamentos de AA, su desarrollo práctico, casos de uso y ejemplos. Además, vimos como parte práctica los ejercicios de <a href="https://github.com/starknet-edu/aa-workshop">AA Workshop</a>.</p> 
+    <p>En esta cuarta clase impartida por Carlos, estudiamos sobre los fundamentos de AA, su desarrollo práctico, casos de uso y ejemplos. Además, vemos como parte práctica los ejercicios de <a href="https://github.com/starknet-edu/aa-workshop">AA Workshop</a>.</p> 
 </div>
 <div align="center">
     <img src="/assets/Pioneros2_ Clase4.png"  width="600">
@@ -127,16 +127,21 @@ Puede encontrar mucho material organizado en la [web de StarknetEs](https://star
     ---
 <div align="justify">
     <h2 id="Juegos On-Chain en Starknet">Juegos On-Chain en Starknet</h2>
-    </div>
+    <p>En esta clase impartida por Damian, exploramos el potencial de Dojo como motor de juegos On-Chain en Starknet y descubrimos las respuestas a las siguientes preguntas: 
+  ¿Qué es Dojo y por qué usarlo? 
+  ¿Qué funcionalidades nos agrega? 
+  ¿Que stack de herramientas nos brinda?<p>
+</div>
     <div align="center">
     <img src="/assets/Pioneros2_Clase5.png"  width="600">
-      
+     
 </div>
     ---
 
  <div align="justify">
     <h2 id="Indexer en Cairo">Indexer en Cairo</h2>
-    </div>
+    <p>En esta clase impartida por Gian, aprendemos sobre los indexers en blockchain y qué problemas resuelven. Además, exploramos aquellos que se utilizan en Starknet.<p>
+ </div>
     <div align="center">
     <img src="/assets/Pioneros2_Clase6.png"  width="600">
       
